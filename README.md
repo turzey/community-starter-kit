@@ -1,10 +1,12 @@
 # welcome bot: CJC WEB APP
 
-DESCRIPTION PLACEHOLDER
+The App host online streaming videos, and allow users to interact in a forum as well as comment while streaming videos.
 
 ## What it does
 
-The app help people to stream online church services 
+Host live streaming videos.
+Users can interact on a forum.
+Users can chat while streaming live videos.
 
 ## Getting started
 
