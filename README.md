@@ -1,10 +1,10 @@
-# welcome bot: A Probot App
+# welcome bot: CJC WEB APP
 
 DESCRIPTION PLACEHOLDER
 
 ## What it does
 
-FEATURES PLACEHOLDER
+The app help people to stream online church services 
 
 ## Getting started
 
@@ -52,4 +52,4 @@ If you need help using this app, we encourage you to:
 
 ## Project maintainers
 
-This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+This project is maintained by Beni Dibatia and friends. Use of this project under the [MIT License](LICENSE.md).
